@@ -1,29 +1,27 @@
-.product-card{
-	padding: 0%;
-	height: 349.75px ;
+/* .product-card{
 	width: 202.03px;
-	background-color: white;
-	margin: 3%;
-}
+	height: 303.04px;
+	margin: 20px	
+} */
 
-.product-card-imgConainer {
+/* .product-card-imgConainer {
 
 }
 .product-card-img{
-	width: 100%;
+	 width: 100%; 
 	
-}
+ }
 
 .product-card-infoContainer {
 	height: 46px;
 	display: flex;
-	flex-direction: row;
+	 flex-direction: row; 
 	padding: 2%;
 
 }
 
 .product-card-info-container {
-	width: 75%;
+	width: 75%; 
 
 }
 
@@ -33,4 +31,4 @@
 
 .product-card-price {
 
-}
+} */
